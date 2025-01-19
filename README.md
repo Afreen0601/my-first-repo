@@ -1,2 +1,2 @@
 # my-first-repo
-Author-Afreen khan don
+Author-Afreen (Apna college)
